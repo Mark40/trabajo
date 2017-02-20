@@ -122,7 +122,7 @@ public class Agenda {
 			for(Personas pers: personas){
 				if (pers.getId().equals(personaNombre)){
 					personas.remove(indice);
-					for(Personas persona : personas){
+					{
 						
 					}
 					break;
